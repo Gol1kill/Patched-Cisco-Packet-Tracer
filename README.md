@@ -1,4 +1,4 @@
-# 🌐 Cisco Packet Tracer 8.2.1 (No-Login Edition)
+# 🌐 Patched Cisco Packet Tracer 8.2.1 (No-Login Edition)
 
 <p align="center">
   <img src="https://img.shields.io/badge/Platform-Windows-blue?style=for-the-badge&logo=windows" alt="Platform" />
@@ -27,22 +27,13 @@
 
 ## 🚀 Варианты установки
 
-### Вариант 1. Установка готовой программы (Всё в одном)
+### Установка готовой программы (Всё в одном)
 > Если у вас ещё не установлен Packet Tracer или вы хотите поставить готовую версию на чистую систему.
 
-1. Перейдите в раздел **[Releases](https://github.com/ВАШ_НИК/РЕПОЗИТОРИЙ/releases)** и скачайте `Cisco_Packet_Tracer_8.2.1_by_Gol_1kill_Setup.exe`.
+1. Перейдите в раздел **[Releases](https://github.com/Gol1kill/Patched-Cisco-Packet-Tracer/releases)** и скачайте `Cisco_Packet_Tracer_8.2.1_by_Gol_1kill_Setup.exe`.
 2. Запустите скачанный файл.
 3. Нажмите **Enter** для установки по умолчанию (или укажите свою папку).
 4. Программа автоматически распакуется и создаст ярлык на Рабочем столе.
-
----
-
-### Вариант 2. Патч для уже установленного Packet Tracer
-> Если программа уже установлена на компьютере и нужно только убрать окно логина.
-
-1. Скачайте `PacketTracer_Patcher_by_Gol_1kill.exe` из Releases.
-2. Запустите патчер от имени администратора.
-3. Он автоматически найдёт `PacketTracer.exe`, отключит вызов окна входа, обновит заголовок и удалит старые бэкапы.
 
 ---
 
@@ -51,7 +42,6 @@
 | Файл / Папка | Описание |
 | :--- | :--- |
 | `Cisco_Packet_Tracer_8.2.1_by_Gol_1kill_Setup.exe` | Автономный инсталлер со встроенной пропатченной версией |
-| `PacketTracer_Patcher_by_Gol_1kill.exe` | Компактный патчер для существующей установки |
 
 ---
 
